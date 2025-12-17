@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a software engineer focused on bridging the gap between hardware and software. My work revolves around **C/C++ Low-Level Systems** and **High-Performance Backend Development**. I love designing real-time systems and solving complex architectural problems.
 
@@ -25,7 +25,7 @@ I am a software engineer focused on bridging the gap between hardware and softwa
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/devesh-bhardwaj-957109283/" target="blank">
